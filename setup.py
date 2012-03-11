@@ -7,7 +7,7 @@ setup(name='plone.app.event-ploneintegration',
       version=version,
       description="Integration of plone.app.event into pre Plone 4.3 release.",
       long_description=open("README.rst").read() + "\n" +
-                       open(os.path.join("docs", "HISTORY.txt")).read(),
+                       open(os.path.join("docs", "HISTORY.rst")).read(),
       # Get more strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
       classifiers=[
         "Framework :: Plone",
