@@ -1,6 +1,14 @@
 plone.app.event-ploneintegration
 ================================
 
+PLEASE NOTE
+-----------
+This package is obsolete. The functionality is now included in plone.app.event
+(currently in api-refactoring branch but soon to be merged back and released).
+
+General Info
+------------
+
 This package integrates plone.app.event into Plone 4 releases, where
 plone.app.event is not in the core. This is the case for all Plone 4 releases
 at the time of this release.
